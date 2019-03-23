@@ -1,0 +1,3 @@
+[submodule "viajes"]
+	path = viajes
+	url = https://github.com/iscoct/viajes
